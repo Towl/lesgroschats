@@ -1,0 +1,1 @@
+[16-Dec-2018 15:55:05 UTC] PHP Notice:  edit_form_advanced est <strong>obsolète</strong> depuis la version 5.0.0 ! Utilisez block_editor_meta_box_hidden_fields à la place. Cette action est toujours supportée dans l’éditeur classique, mais est obsolète dans le nouvel éditeur. in /var/www/html/wp-includes/functions.php on line 4147
